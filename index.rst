@@ -1,9 +1,9 @@
 ##################
-How to set up your Epson printer?
+Set up your Epson printer: Complete Process
 ##################
 
 .. meta::
-   :msvalidate.01: 108BF3BCC1EC90CA1EBEFF8001FAEFEA
+   :msvalidate.01: E181B8BDF2CB760DDE8EC625F4AC6BB4
 
 .. image:: blank.png
       :width: 350px
